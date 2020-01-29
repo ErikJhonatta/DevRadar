@@ -1,0 +1,1 @@
+Mudar o IP do Socket e da API para o ipv4 do ambiente, no front-end mobile
